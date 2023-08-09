@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap");
+body {
+  font-family: "Roboto", sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.menu {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+  list-style: none;
+  justify-content: end;
+  margin-right: 30px;
+  color: #252641;
+  padding-top: 40px;
+}
+.btn1 {
+  background-color: white;
+  color: black;
+  padding: 10px 10px;
+  border-radius: 30px;
+  width: 100px;
+  border: none;
+}
+.btn2 {
+  padding: 10px 10px;
+  border-radius: 30px;
+  width: 100px;
+  background-color: rgb(255, 166, 0);
+  color: white;
+  border: none;
+}
+.logo {
+  margin-right: 600px;
+}
+.text {
+  font-size: 30px;
+  color: #252641;
+  margin-top: 200px;
+  margin-left: 40px;
+  background-color: #FFF2E1;
+}
+.text-3 {
+  padding-top: 30px;
+  font-size: 20px;
+  color: #252641;
+}
+.sec-1 {
+  display: flex;
+  background-color: #FFF2E1;
+}
+.btn {
+  padding: 10px 10px;
+  border-radius: 30px;
+  background-color: orange;
+  color: white;
+  border: none;
+  font-size: 14px;
+  margin-top: 30px;
+}
+.photo {
+  margin-left: 40px;
+}
+.text-4 {
+  padding-top: 50px;
+}
+.text5 {
+  margin-left: 550px;
+  color: #696984;
+}
+.txt {
+  margin-left: 600px;
+}
+.hone{
+    color:#252641;;
+}
